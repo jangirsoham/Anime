@@ -3,7 +3,7 @@ const playerSection = document.getElementById("playerSection");
 const player = document.getElementById("animePlayer");
 
 // Replace this with your embed link
-const embedURL = "https://abysscdn.com/?v=cLviY_DLf";
+const embedURL = "https://player.abyssplayer.com/7g7skNfX5";
 
 watchBtn.addEventListener("click", () => {
 
